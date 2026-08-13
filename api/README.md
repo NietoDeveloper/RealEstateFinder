@@ -171,9 +171,7 @@ This project is licensed under the **MIT License**.
 
 ```mermaid
 flowchart LR
-    A([🌐 Client Request]) --> B[Routes]
-    B --> C[Controllers]
-tyle F fill:#000,color:#FFD700,stroke:#FFD700
+ 00,color:#FFD700,stroke:#FFD700
 ```
 
 ---
