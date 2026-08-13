@@ -20,9 +20,6 @@ Frontend: Uses React with Vite for fast development and Tailwind CSS for styling
 
 Outputs to /frontend/dist.
 
-Serve the backend:Ensure the backend is configured to serve the frontend's static files if needed.
-
-
 License
 MIT License
 
