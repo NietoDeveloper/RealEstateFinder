@@ -279,7 +279,4 @@ npm start
 The API runs on `http://localhost:3000` by default.
 
 ---
-
-## 👨‍💻 Author
-
 **Manuel Nieto (NietoDeveloper)**
