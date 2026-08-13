@@ -168,8 +168,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📋 Overview
-
-The **API** service for **Real Estate Finder**. Built with **Node.js**, it exposes RESTful endpoints handling property listings and user data, following a clean, modular architecture that separates routing, business logic, data models, and utility functions.
+exposes RESTful endpoints handling property listings and user data, following a clean, modular architecture that separates routing, business logic, data models, and utility functions.
 
 ---
 
