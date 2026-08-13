@@ -166,8 +166,7 @@ This project is licensed under the **MIT License**.
     <img src="https://img.shields.io/badge/Backend-Node.js-3399or=whi
   </a>opensource.org/licenses/MIT">
 
-
-<p align="center">
+="center">
   <a href="https://github.com/NietoDeveloper/RealEstateFinder">
     <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FRealEstateFinder-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
   </a>
