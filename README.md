@@ -13,7 +13,3 @@ npm or yarn
 
 
 # NietoDeveloper
-
-## Manuel Nieto Software Developer
-
-### 202
