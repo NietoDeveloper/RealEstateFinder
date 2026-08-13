@@ -275,8 +275,3 @@ Create a `.env` file in the `api` directory with your database connection string
 ```bash
 npm start
 ```
-
-The API runs on `http://localhost:3000` by default.
-
----
-**Manuel Nieto (NietoDeveloper)**
