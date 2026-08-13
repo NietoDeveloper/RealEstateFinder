@@ -168,7 +168,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📋 Overview
-exposes RESTful endpoints handling property listings and user data, following a clean, modular architecture that separates routing, business logic, data models, and utility functions.
+
 
 ---
 
