@@ -10,6 +10,3 @@ Project Structure
 
 Node.js (v16 or higher)
 npm or yarn
-
-
-# NietoDeveloper
