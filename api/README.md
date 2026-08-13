@@ -159,9 +159,7 @@ This project is licensed under the **MIT License**.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=REAL%20ESTATE%20FINDER%20%E2%80%94%20API&f
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=740&lines=%E2%9A%A1+RESTful+Endpoints+for+Listings+%26+Users;%F0%9F%94%92+Secure+Authentication+Layer;%F0%9F%97%84%EF%B8%8F+Structured+Data+Models;%F0%9F%A7%A9+Clean+Controller%2FRoute+Separation)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=740&4%EF%B8%8F+Structured+Data+Models;%F0%9F%A7%A9+Clean+Controller%2FRoute+Separation)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://nodejs.org/">
