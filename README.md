@@ -5,5 +5,3 @@ Project Structure
 
 /frontend: React frontend built with Vite and styled with Tailwind CSS.
 /backend: Node.js backend for API services.
-
-## Requisitos
