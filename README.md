@@ -9,4 +9,3 @@ Project Structure
 ## Requisitos
 
 Node.js (v16 or higher)
-npm or yarn
