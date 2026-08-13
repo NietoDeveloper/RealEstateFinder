@@ -37,9 +37,3 @@ Project Structure
 src/: Source code for the React application.
 components/: Reusable React components.
 pages/: Page-level components.
-assets/: Static files (images, fonts, etc.).
-styles/: Tailwind CSS configuration and custom styles.
-
-public/: Static assets served directly.
-vite.config.js: Vite configuration file.
-tailwind.config.js: Tailwind CSS configuration file.
