@@ -19,10 +19,7 @@ cd MyApp
 
 Install frontend dependencies:
 cd frontend
-
-
-
-Install backend dependencies:
+s:
 
 
 
