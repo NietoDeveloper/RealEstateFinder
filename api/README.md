@@ -162,7 +162,7 @@ This project is licensed under the **MIT License**.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shareh+Mono&w700&size=18&duration=2800&pause=900&color=FFD700&center=true&vCtrue&width=740&4%EF%B8%8F+Structured+Dat;%F0%9F%A7%A9+Clean+Controller%2FRoute+Separation)/git.io/typing-svg)
 
 <p align="center">
-  <a href="https://nodejs.org/">
+  <a href="https://nodejs
     <img src="https://img.shields.io/badge/Backend-Node.js-3399or=white"/>
   </a>
 ightgrey?style=for-the-badge&logo=express"/>
