@@ -23,8 +23,7 @@ cd frontend
 
 
 Install backend dependencies:
-cd ../backend
-npm install
+
 
 
 
