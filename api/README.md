@@ -165,8 +165,7 @@ This project is licensed under the **MIT License**.
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Backend-Node.js-3399or=white"/>
   </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Framework-Express.js-lightgrey?style=for-the-badge&logo=express"/>
+ightgrey?style=for-the-badge&logo=express"/>
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
