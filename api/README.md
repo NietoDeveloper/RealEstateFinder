@@ -173,9 +173,7 @@ This project is licensed under the **MIT License**.
 -
 ```text
 api/   # Database schemas and data models
-├── routes/          # RESTful API endpoint definitions
-└── utils/           # Helper functions and shared utilities
-```
+
 
 ---
 
