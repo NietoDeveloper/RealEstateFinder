@@ -14,12 +14,7 @@ npm or yarn
 
 Clone the repository:
 git clone <https://github.com/NietoDeveloper/RealEstateFinder>
-cd MyApp
-
-
-Install frontend dependencies:
-cd frontend
-
+cd MyAp
 The backend runs on http://localhost:3000 by default.
 
 Start the frontend:
