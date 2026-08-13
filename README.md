@@ -23,8 +23,7 @@ cd frontend
 The backend runs on http://localhost:3000 by default.
 
 Start the frontend:
-cd frontend
-npm run dev
+
 
 The frontend runs on http://localhost:5173 by default (Vite's default port).
 
