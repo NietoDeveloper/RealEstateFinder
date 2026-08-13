@@ -16,10 +16,7 @@ npm or yarn
 The frontend runs on http://localhost:5173 by default (Vite's default port).
 
 
-Frontend: Uses React with Vite for fast development and Tailwind CSS for styling.
-
-Outputs to /frontend/dist.
-
+Frontend: Uses React with Vite for fast development and 
 License
 MIT License
 
