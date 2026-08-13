@@ -174,7 +174,7 @@ flowchart LR
 
 - **Controllers:** Handle business logic for property listings and user operations.
 - **Models:** Define the data structures for listings and users.
-- **Routes:** Expose RESTful endpoints consumed by the client application.
+
 - **Utils:** Shared helper functions used across controllers.
 
 ---
