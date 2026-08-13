@@ -162,6 +162,3 @@ This project is licensed under the **MIT License**.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shareh+Mono&w700&size=18&duration=2800&pause=900&
 
 <p align="center">
-  <a href="https://nodejs
-    <img src="https://img.shields.io/badge/Backend-Node.
-
