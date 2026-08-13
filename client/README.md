@@ -43,33 +43,3 @@ styles/: Tailwind CSS configuration and custom styles.
 public/: Static assets served directly.
 vite.config.js: Vite configuration file.
 tailwind.config.js: Tailwind CSS configuration file.
-
-## Scripts
-
-npm run dev: Starts the development server.
-npm run build: Builds the app for production.
-npm run preview: Previews the production build locally.
-
-Tailwind CSS Usage
-
-Tailwind is configured in tailwind.config.js.
-Apply styles using utility classes directly in JSX.
-Custom styles can be added in src/styles/tailwind.css.
-
-Development Notes
-
-Use JSX for React components.
-Avoid <form> onSubmit due to sandbox restrictions; use button event handlers instead.
-Use className instead of class in JSX for Tailwind classes.
-Ensure components are reusable and modular.
-
-Running the App
-
-Development: npm run dev for hot-reloading.
-Production: Serve the dist folder using a static server (e.g., npm run preview).
-
-## Manuel Nieto Software Developer
-
-### NietoDeveloper
-
-### 2025
