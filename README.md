@@ -7,5 +7,3 @@ Project Structure
 /backend: Node.js backend for API services.
 
 ## Requisitos
-
-Node.js (v16 or higher)
