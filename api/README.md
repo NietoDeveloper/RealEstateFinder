@@ -173,10 +173,7 @@ This project is licensed under the **MIT License**.
 flowchart LR
     A([🌐 Client Request]) --> B[Routes]
     B --> C[Controllers]
-    C --> D[Utils]
-    C --> E[(Models\nDatabase)]
-    E -->|Response| F([📦 JSON Payload])
-
+    C --> D[Utils
     style A fill:#FFD700,color:#000,stroke:#FFD700
     style C fill:#0a0a0a,color:#FFD700,stroke:#FFD700
     style E fill:#47A248,color:#fff,stroke:#47A248
