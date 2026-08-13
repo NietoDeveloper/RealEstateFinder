@@ -164,10 +164,7 @@ This project is licensed under the **MIT License**.
 <p align="center">
   <a href="https://nodejs
     <img src="https://img.shields.io/badge/Backend-Node.js-3399or=white"/>
-  </a>
-ightgrey?style=for-the-badge&logo=express"/>
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
+  </a>opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
   </a>
 </p>
