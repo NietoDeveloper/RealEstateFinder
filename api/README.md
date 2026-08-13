@@ -171,9 +171,6 @@ This project is licensed under the **MIT License**.
 
 
 -
-```text
-api/   # Database schemas and data models
-
 
 ---
 
