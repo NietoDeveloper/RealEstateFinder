@@ -12,10 +12,6 @@ Node.js (v16 or higher)
 npm or yarn
 
 
-
-The frontend runs on http://localhost:5173 by default 
-MIT License
-
 # NietoDeveloper
 
 ## Manuel Nieto Software Developer
