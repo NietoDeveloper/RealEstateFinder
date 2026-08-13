@@ -13,7 +13,7 @@ npm or yarn
 
 
 Clone the repository:
-git clone <https://github.com/NietoDeveloper/RealEstateFinder>
+
 cd MyAp
 
 
