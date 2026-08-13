@@ -17,9 +17,7 @@ The frontend runs on http://localhost:5173 by default (Vite's default port).
 
 
 Frontend: Uses React with Vite for fast development and Tailwind CSS for styling.
-Backend: Node.js with Express (or your preferred framework) for API endpoints.
-
-
+Backend: Node.js with Express (or your preferred framework)
 
 
 Build for Production
