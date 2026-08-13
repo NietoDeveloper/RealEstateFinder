@@ -170,14 +170,7 @@ This project is licensed under the **MIT License**.
 ## 📋 Overvi
 
 ```mermaid
-flowchart LR
 
-ack
-
-<div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
 | 🏃 **Runtime** | Node.js |
 | ⚙️ **Framework** | Express (or preferred framework) |
 | 🔧 **Version Control** | Git / GitHub |
