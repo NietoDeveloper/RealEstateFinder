@@ -170,10 +170,7 @@ This project is licensed under the **MIT License**.
 ## 📋 Overview
 
 
----
-
-## 🗂️ Directory Structure
-
+-
 ```text
 api/
 ├── controllers/     # Business logic handlers for listings and users
