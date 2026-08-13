@@ -11,7 +11,6 @@ Project Structure
 Node.js (v16 or higher)
 npm or yarn
 
-## Installation
 
 Clone the repository:
 git clone <https://github.com/NietoDeveloper/RealEstateFinder>
