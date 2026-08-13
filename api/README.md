@@ -171,10 +171,3 @@ This project is licensed under the **MIT License**.
 ### Prerequisites
 
 
-```bash
-cd api
-```
-
-**Step 2 — Install dependencies**
-
-```bash
