@@ -12,11 +12,6 @@ Node.js (v16 or higher)
 npm or yarn
 
 
-Clone the repository:
-
-cd MyAp
-
-
 
 The frontend runs on http://localhost:5173 by default (Vite's default port).
 
