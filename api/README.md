@@ -167,14 +167,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 📋 Overview
-
-
--
-
----
-
-## 🔄 Request Flow
+## 📋 Overvi
 
 ```mermaid
 flowchart LR
