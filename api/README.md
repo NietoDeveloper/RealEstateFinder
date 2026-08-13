@@ -166,9 +166,6 @@ This project is licensed under the **MIT License**.
     <img src="https://img.shields.io/badge/Backend-Node.js-3399or=whi
   </a>opensource.org/licenses/MIT">
 
-="center"/>
-  </a>
-</p>
 
 </div>
 
