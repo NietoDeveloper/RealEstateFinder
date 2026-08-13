@@ -172,9 +172,7 @@ This project is licensed under the **MIT License**.
 
 -
 ```text
-api/
-├── controllers/     # Business logic handlers for listings and users
-├── models/          # Database schemas and data models
+api/   # Database schemas and data models
 ├── routes/          # RESTful API endpoint definitions
 └── utils/           # Helper functions and shared utilities
 ```
