@@ -18,11 +18,6 @@ The frontend runs on http://localhost:5173 by default (Vite's default port).
 
 Frontend: Uses React with Vite for fast development and Tailwind CSS for styling.
 
-
-Build the frontend:
-cd frontend
-npm run build
-
 Outputs to /frontend/dist.
 
 Serve the backend:Ensure the backend is configured to serve the frontend's static files if needed.
