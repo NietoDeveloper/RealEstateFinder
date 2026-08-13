@@ -167,8 +167,7 @@ This project is licensed under the **MIT License**.
   </a>opensource.org/licenses/MIT">
 
 ="center">
-  <a href="https://github.com/NietoDeveloper/RealEstateFinder">
-    <img src="ge&logo=github&logoColor=FFD700"/>
+  <a href="https://github.com/NietoDeveloper/c="ge&logo=github&logoColor=FFD700"/>
   </a>
 </p>
 
