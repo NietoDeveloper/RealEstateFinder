@@ -156,6 +156,4 @@ This project is licensed under the **MIT License**.
 
 
 
-<div align="cer">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&
+<di,2,5,30&height=200&
