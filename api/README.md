@@ -158,5 +158,4 @@ This project is licensed under the **MIT License**.
 
 <div align="cer">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=REAL%20ESTATE%20FINDER%20%E2%80%94%20API&f
-[![Typing SVG](https://readme-typing-svg.demolab
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&
