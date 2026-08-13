@@ -265,7 +265,3 @@ cd api
 ```bash
 npm install
 ```
-
-**Step 3 — Configure environment variables**
-
-Create a `.env` file in the `api` directory with your database connection string, port, and other required variables.
