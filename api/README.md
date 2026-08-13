@@ -172,10 +172,6 @@ This project is licensed under the **MIT License**.
 ```mermaid
 
 | 🏃 **Runtime** | Node.js |
-| ⚙️ **Framework** | Express (or preferred framework) |
-| 🔧 **Version Control** | Git / GitHub |
-
-</div>
 
 ---
 
