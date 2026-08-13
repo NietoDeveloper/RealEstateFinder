@@ -172,11 +172,7 @@ This project is licensed under the **MIT License**.
 ```mermaid
 flowchart LR
 
-- **Controllers:** Handle business logic for property listings and user operations.
-
----
-
-## 🛠️ Tech Stack
+ack
 
 <div align="center">
 
