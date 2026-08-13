@@ -4,4 +4,4 @@ A full-stack web application with separated frontend and backend, built using Ja
 Project Structure
 
 /frontend: React frontend built with Vite and styled with Tailwind CSS.
-/backend: Node.js backend for API services.
+/backend: Node.js backend for API servic
