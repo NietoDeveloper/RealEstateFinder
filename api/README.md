@@ -170,9 +170,6 @@ This project is licensed under the **MIT License**.
 
 ### Prerequisites
 
-- Node.js (v16 or higher)
-- npm or yarn
-the API directory**
 
 ```bash
 cd api
