@@ -172,10 +172,7 @@ This project is licensed under the **MIT License**.
 
 - Node.js (v16 or higher)
 - npm or yarn
-
-### Installation & Execution
-
-**Step 1 — Navigate to the API directory**
+the API directory**
 
 ```bash
 cd api
