@@ -173,9 +173,6 @@ This project is licensed under the **MIT License**.
 flowchart LR
 
 - **Controllers:** Handle business logic for property listings and user operations.
-- **Models:** Define the data structures for listings and users.
-
-- **Utils:** Shared helper functions used across controllers.
 
 ---
 
