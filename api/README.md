@@ -167,15 +167,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 📋 Overvi
-
-```mermaid
-
-| 🏃 **Runtime** | Node.js |
-
----
-
-## 🚀 Getting Started
 
 ### Prerequisites
 
