@@ -165,9 +165,3 @@ This project is licensed under the **MIT License**.
   <a href="https://nodejs
     <img src="https://img.shields.io/badge/Backend-Node.
 
----
-
-
-### Prerequisites
-
-
