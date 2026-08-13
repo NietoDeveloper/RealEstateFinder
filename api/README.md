@@ -286,13 +286,4 @@ The API runs on `http://localhost:3000` by default.
 Software Developer
 GitHub: [@NietoDeveloper](https://github.com/NietoDeveloper)
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-<div align="center">
-
-<br/>
-
+--
