@@ -20,10 +20,6 @@ cd MyApp
 Install frontend dependencies:
 cd frontend
 
-Start the backend:
-cd backend
-npm start
-
 The backend runs on http://localhost:3000 by default.
 
 Start the frontend:
