@@ -283,7 +283,3 @@ The API runs on `http://localhost:3000` by default.
 ## 👨‍💻 Author
 
 **Manuel Nieto (NietoDeveloper)**
-Software Developer
-GitHub: [@NietoDeveloper](https://github.com/NietoDeveloper)
-
---
