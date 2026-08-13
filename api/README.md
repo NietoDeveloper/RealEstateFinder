@@ -171,12 +171,6 @@ This project is licensed under the **MIT License**.
 
 ```mermaid
 flowchart LR
- 00,color:#FFD700,stroke:#FFD700
-```
-
----
-
-## ⚙️ Core Modules
 
 - **Controllers:** Handle business logic for property listings and user operations.
 - **Models:** Define the data structures for listings and users.
